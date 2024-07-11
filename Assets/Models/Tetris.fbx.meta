@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 0b5fa3fca54b82041b3d4fb53d2c86ec
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -7158184742072367448
+    second: L|Action
+  - first:
+      74: -393973282111286032
+    second: L|Action.001
+  - first:
+      74: -8850317363150142895
+    second: L|Action.002
+  - first:
+      74: 913008122730481973
+    second: L|Action.003
+  - first:
+      74: -3652447844525416478
+    second: L|Action.004
+  - first:
+      74: 5119091658252010513
+    second: L|Action.005
+  - first:
+      74: 2273005400454346333
+    second: L|Action.006
+  - first:
+      74: -5096784939015208891
+    second: Reverse L|Action
+  - first:
+      74: 727399712878447366
+    second: Reverse L|Action.001
+  - first:
+      74: 6757008925395853466
+    second: Reverse L|Action.002
+  - first:
+      74: -1119748832075142131
+    second: Reverse L|Action.003
+  - first:
+      74: 5966230227900210125
+    second: Reverse L|Action.004
+  - first:
+      74: -262602320393435977
+    second: Reverse L|Action.005
+  - first:
+      74: 8844619007557744511
+    second: Reverse L|Action.006
+  - first:
+      74: -3959548736850079943
+    second: Reverse Zigzag|Action
+  - first:
+      74: 9219832200524211944
+    second: Reverse Zigzag|Action.001
+  - first:
+      74: -5501602863871942849
+    second: Reverse Zigzag|Action.002
+  - first:
+      74: -5494869411275580815
+    second: Reverse Zigzag|Action.003
+  - first:
+      74: 8262119769377973441
+    second: Reverse Zigzag|Action.004
+  - first:
+      74: -2090437528802232656
+    second: Reverse Zigzag|Action.005
+  - first:
+      74: 8974534405223732469
+    second: Reverse Zigzag|Action.006
+  - first:
+      74: -4206329619616343435
+    second: Square|Action
+  - first:
+      74: 9006714180742830926
+    second: Square|Action.001
+  - first:
+      74: -5625056268474313724
+    second: Square|Action.002
+  - first:
+      74: 7278115662798162332
+    second: Square|Action.003
+  - first:
+      74: -4882321570311069032
+    second: Square|Action.004
+  - first:
+      74: -8693327452083832893
+    second: Square|Action.005
+  - first:
+      74: -9163923106603053043
+    second: Square|Action.006
+  - first:
+      74: 5360098488135078852
+    second: T|Action
+  - first:
+      74: -478270722611996405
+    second: T|Action.001
+  - first:
+      74: -6336825213512901530
+    second: T|Action.002
+  - first:
+      74: -7077324563696441656
+    second: T|Action.003
+  - first:
+      74: -2674475380380081460
+    second: T|Action.004
+  - first:
+      74: -7523425793391656189
+    second: T|Action.005
+  - first:
+      74: 1582430081904160745
+    second: T|Action.006
+  - first:
+      74: 1141132618242713508
+    second: Tower|Action
+  - first:
+      74: 5007709830268576714
+    second: Tower|Action.001
+  - first:
+      74: 8868541766053583012
+    second: Tower|Action.002
+  - first:
+      74: -708287883301540447
+    second: Tower|Action.003
+  - first:
+      74: 5172440591307653067
+    second: Tower|Action.004
+  - first:
+      74: -3204809557066867476
+    second: Tower|Action.005
+  - first:
+      74: 2092021044282110255
+    second: Tower|Action.006
+  - first:
+      74: 8574341965503003006
+    second: Zigzag|Action
+  - first:
+      74: -5283225847945939256
+    second: Zigzag|Action.001
+  - first:
+      74: 2745485999914786378
+    second: Zigzag|Action.002
+  - first:
+      74: -597006413097155979
+    second: Zigzag|Action.003
+  - first:
+      74: 8233101959588949263
+    second: Zigzag|Action.004
+  - first:
+      74: 558823858032274616
+    second: Zigzag|Action.005
+  - first:
+      74: 1237051420191495174
+    second: Zigzag|Action.006
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
